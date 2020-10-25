@@ -1,0 +1,25 @@
+body{
+background-color: lightcyan;
+}
+h1{
+    text-align: center;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+h2{
+    color: mediumblue;
+    text-decoration: overline;
+}
+.one{
+    color: springgreen;
+}
+.two{
+    color: tomato;
+    font-size: larger;
+}
+.three{
+    color: darkblue;
+}
+.four{
+    color: deeppink;
+    font-size: larger;
+}
