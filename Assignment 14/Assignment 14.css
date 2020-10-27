@@ -1,0 +1,21 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+   border: ridge;
+    border-width: 10px;
+    border-radius: 2px;
+    border-color: darkturquoise;
+}
+hr{
+   color: green;
+    border: double;
+    border-width: 5px;
+}
+.image{
+     border: dashed; 
+    border-color: red;
+    border-collapse: initial;
+    border-width: 10px;  
+    margin: 10px ;
+}
+  
