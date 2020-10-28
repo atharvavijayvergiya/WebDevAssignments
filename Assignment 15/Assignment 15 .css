@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+input:hover{
+    background-color: yellow;
+}
+input:focus{
+    background-color:limegreen;
+    border:4px groove grey;
+}
+input[type="radio"]:hover{
+    box-shadow: 0 0 0 4px yellowgreen;
+}
+input[type="radio"]:focus{
+    box-shadow: 0 0 0 4px yellow;
+}
+button:hover{
+    box-shadow: 0 0 0 4px;
+    background-color: green;
+    color: white;
+    border-style: none;
+    padding: 20px 20px ;
+}
