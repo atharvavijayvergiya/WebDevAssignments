@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    font-family: cursive;
+}
+h1{
+    text-align: center;
+    text-decoration:underline;
+    font-size: 50px;
+    color:darkblue;
+    margin-left: 310px;
+    margin-right: 310px;
+}
+h1:hover{
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 0px  rgb(186, 47, 221);
+    border: solid;
+    border-color: red;
+    border-width: 5px;
+    border-radius: 10px 0px 10px 0px;
+    font-style: italic;
+}
+.image{
+    text-align: center;
+}
+.image:hover{
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 0px  rgb(186, 47, 221);
+    border: solid;
+    border-color: red;
+}
+h2{
+    text-decoration: underline;
+    color: midnightblue;
+}
+h2:hover{
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 0px  rgb(186, 47, 221);
+    border-radius: 10px  10px 10px 10px;
+    color: deeppink;
+}
+.first{
+    text-align: left;
+}
+.first p{
+    background-color: goldenrod;
+}
+.Second{
+    text-align: left;
+}
+.Second p{
+    color: lime;
+}
+.Second li{
+    color: navy;
+    text-decoration: underline;
+    font-style: italic;
+}
+h3:hover{
+    margin-top: 10px;
+    box-shadow: 10px 10px 10px 0px  rgb(186, 47, 221);
+    border-radius: 10px  10px 10px 10px;
+    color: deeppink;
+}
+.third p{
+    color: lime;
+}
+h2{
+    color: midnightblue;
+}
+h3{
+    color: midnightblue;
+}
+hr{
+    margin-left: 18px;
+    height: 2px;
+    width: 1150px;
+    background-color: rgb(153, 153, 153);
+    margin-right: 18px;
+}
+ p :first-of-type{
+    color: white;
+    background-color: navy;
+    box-shadow: violet 10px 10px 10px 10px;
+}
