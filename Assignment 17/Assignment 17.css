@@ -1,0 +1,149 @@
+body{
+   background-color: lightcyan;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: sticky;
+    font-size: 40px;
+    font-family: cursive;
+    margin: 0px;
+    top: 0px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 55px;
+    text-decoration: underline;
+}
+h2{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-decoration: underline;
+    text-align: center;
+    background-color:navy;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: sticky;
+    top: 58px;
+    color: white;
+}
+.about p{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:lime;
+    font-size: 20px;
+    color:deeppink;
+    font-weight: 500;
+}
+h3{
+    color:#FF851B;
+    font-size: 25px;
+}
+.backgr p{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:deeppink;
+    font-size: 20px;
+    color:lime;
+    font-weight: 500;
+}
+.box h4 {
+     text-align: center;
+     font-size: 25px;
+     color:purple;
+}
+.box{
+    background-color: lightskyblue;
+    color:orangered;
+    font-size: 20px;
+}
+.outbreak p{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:lime;
+    font-size: 20px;
+    color:deeppink;
+    font-weight: 500;
+}
+.trial{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:deeppink;
+    font-size: 20px;
+    color:lime;
+    font-weight: 500;
+}
+#alle{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:lime;
+    font-size: 20px;
+    color:deeppink;
+    font-weight: 500;
+}
+#death{
+    padding-top: 0.1px;
+    padding-bottom: 5px;
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:deeppink;
+    font-size: 20px;
+    color:lime;
+    font-weight: 500;
+}
+.buttons .fbButton{
+    position: fixed;
+    bottom: 15px;
+    right: 150px;
+    background-color:orange;
+    border: solid;
+    border-radius: 40px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;   
+}
+.buttons .emButton{
+    position: fixed;
+    background-color:orange;
+    border: solid;
+    border-radius: 40px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    bottom: 15px;
+    right: 20px;  
+}
+.fbButton :hover{
+   color: darkblue;
+   font-size: 23px;
+}
+.emButton :hover{
+    color: darkblue;
+   font-size: 23px;
+}
+a{
+    text-decoration: none;
+}
+.fbButton :visited{
+    color: rebeccapurple;
+}
+.emButton :visited{
+    color: rebeccapurple;
+}
